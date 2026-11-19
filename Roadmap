@@ -1,0 +1,34 @@
+# Project Roadmap: [Planify]
+
+## Project Overview
+* **Goal:** [Briefly describe what your application or analysis will accomplish]
+* **Team Members:** [@GitHubUsername1], [@GitHubUsername2]
+* **Evaluated Repository:** [Link to the existing GitHub repository you explored]
+
+---
+
+## Sprint 1: Setup & Codebase Evaluation
+- [x] Join `ksu-is` GitHub organization and establish team repository (`@Tucker`)
+- [x] Create and commit initial `README.md` (`@Tucker`)
+- [ ] Search for and clone/fork related existing Python repository to the team (`@Tucker`)
+- [ ] Run existing codebase locally and document setup steps or errors encountered (`@Tucker`)
+- [ ] Summarize codebase evaluation findings in this roadmap (`@Tucker`)
+
+## Codebase Evaluation Findings
+* **What works well:** [Note useful libraries, clean functions, or data structures you plan to reuse]
+* **Issues / Limitations:** [Note missing dependencies, outdated syntax, or errors you had to fix to get it running]
+
+---
+
+## Sprint 2: Core Development & Customization
+- [ ] Set up clean development environment and install required Python packages (`@Tucker`)
+- [ ] Adapt [specific feature/function] from the evaluated repository for our dataset/use case (`@Tucker`)
+- [ ] Build [new feature or user interface component] (`@Tucker`)
+- [ ] Test core functionality and fix bugs (`@Tucker`)
+
+---
+
+## Sprint 3: Refinement, Testing & Presentation
+- [ ] Conduct end-to-end testing with sample inputs (`@Tucker`)
+- [ ] Finalize documentation and usage instructions in `README.md` (`@Tucker`)
+- [ ] Prepare final project presentation/demo (`@Tucker`)
